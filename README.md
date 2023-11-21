@@ -1,2 +1,2 @@
 # Practice git
-Tutorial to practice the Git 
+Tutorial to practice the Git !
