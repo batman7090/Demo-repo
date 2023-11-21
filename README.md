@@ -1,2 +1,2 @@
-# Demo-repo
-practice git
+# Practice git
+Tutorial to practice the Git 
